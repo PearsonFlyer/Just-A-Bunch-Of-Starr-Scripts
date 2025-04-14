@@ -7,3 +7,5 @@ Test.ps1
 # Exclude all .conf files but keep example configs
 **/*.conf
 !**/*-example.conf
+
+site/
