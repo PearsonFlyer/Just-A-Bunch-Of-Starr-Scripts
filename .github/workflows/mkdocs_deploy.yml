@@ -35,4 +35,4 @@ jobs:
 
       - name: 🚀 Deploy to GitHub Pages
         run: |
-          mkdocs gh-deploy --force --clean --verbose --custom-domain starrscripts.xyz
+          mkdocs gh-deploy --force --clean --verbose
